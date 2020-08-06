@@ -4,7 +4,11 @@ title:  "Olá, Mundo!"
 date:   05-08-2020 21:00:00 +0900
 categories: hello
 ---
-Você, interessando em física computacional? interessado em programas para o ensino de física? ou qualquer telespectador desatento, bem vindos ao LibrePhysics, Página dedicada à divulgação de tópicos diversos de física computacional e programas de produdividade para físicos. 
+Você, interessando em física computacional? interessado em programas para o ensino de física? ou qualquer telespectador desatento, bem vindos ao LibrePhysics, Página dedicada à divulgação de tópicos diversos de física computacional e programas últeis.
+
+O conteúdo aqui produzido está licenciado via [CC by-SA 4.0]{https://creativecommons.org/licenses/by-sa/4.0/}. O uso é livre! observando as regras do licenciamento. 
+
+Acreditamos na liberdade de conhecimento. E compreendemos 
 
 
 
