@@ -6,9 +6,9 @@ categories: hello
 ---
 Você, interessando em física computacional? interessado em programas para o ensino de física? ou qualquer telespectador desatento, bem vindos ao LibrePhysics, Página dedicada à divulgação de tópicos diversos de física computacional e programas últeis.
 
-O conteúdo aqui produzido está licenciado via [CC by-SA 4.0]{https://creativecommons.org/licenses/by-sa/4.0/}. O uso é livre! observando as regras do licenciamento. 
+O conteúdo aqui produzido está licenciado via [CC by-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). O uso é livre! observando as regras do licenciamento. 
 
-Acreditamos na liberdade de conhecimento. E compreendemos 
+Acreditamos na liberdade de conhecimento. E compreendemos que os softwares livres são parte importante desse processo. Além disso, o desenvolvimento comunitario de software gera resultados robustos, como será abordado ao longo de postagens. 
 
 
 
