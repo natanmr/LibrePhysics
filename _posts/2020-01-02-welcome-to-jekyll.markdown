@@ -4,7 +4,7 @@ title:  "Olá, Mundo!"
 date:   2020-08-05 21:00:00 +0900
 categories: hello
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Você, interessando em física computacional? interessado em programas para o ensino de física? ou qualquer telespectador desatento, bem vindos ao LibrePhysics, Página dedicada à divulgação de tópicos diversos de física computacional e programas para todos os ornintorricos (simbolo do curso de física da minha alma mater). 
 
 Jekyll requires blog post files to be named according to the following format:
 
