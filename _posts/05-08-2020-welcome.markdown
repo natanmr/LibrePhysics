@@ -6,3 +6,5 @@ categories: hello
 ---
 Você, interessando em física computacional? interessado em programas para o ensino de física? ou qualquer telespectador desatento, bem vindos ao LibrePhysics, Página dedicada à divulgação de tópicos diversos de física computacional e programas de produdividade para físicos. 
 
+
+
