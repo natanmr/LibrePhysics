@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Olá, Mundo!"
-date:   2020-08-05 21:00:00 +0900
+date:   05-08-2020 21:00:00 +0900
 categories: hello
 ---
 Você, interessando em física computacional? interessado em programas para o ensino de física? ou qualquer telespectador desatento, bem vindos ao LibrePhysics, Página dedicada à divulgação de tópicos diversos de física computacional e programas de produdividade para físicos. 
