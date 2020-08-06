@@ -1,23 +1,23 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: true
-  disqus_shortname: 'apham'
+  disqus_shortname: 'librephysics-xyz'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: 'UA-91332049-1'
+google-ID: ''
 
 menu: 
-  - name: Featured Projects
-    submenu:
-      - name: MicroBam
-        link: /projects/microbam
-      - name: OurLegacy
-        link: /projects/ourlegacy
+#  - name: Featured Projects
+#    submenu:
+#      - name: MicroBam
+#        link: /projects/microbam
+#      - name: OurLegacy
+#        link: /projects/ourlegacy
   - name: Posts
     link: /
   - name: Tags
     link: /tags
-  - name: About
+  - name: Sobre
     link: /about
   - name: Follow me
     submenu:
