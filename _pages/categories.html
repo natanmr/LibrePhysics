@@ -16,10 +16,10 @@ Here we generate all the categories.
 
 {% assign rawcategories = rawcategories | split:'|' | sort %}
 
-{% assign tags = "" %}
+{% assign categories = "" %}
 
-{% for tag in rawcategories %}
-{% if tag != "" %}
+{% for categories in rawcategories %}
+{% if categories != "" %}
 
 {% if categories == "" %}
 {% assign categories = categories | split:'|' %}
