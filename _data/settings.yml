@@ -4,9 +4,9 @@ disqus:
   disqus_shortname: 'librephysics-xyz'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-ID: ''
+google-ID: 'UA-174984867-1'
 
-menu: 
+menu:
 #  - name: Featured Projects
 #    submenu:
 #      - name: MicroBam
@@ -30,4 +30,3 @@ menu:
   #    - name: Twitter
   #      icon: twitter
   #      link: https://twitter.com/koint
-    
