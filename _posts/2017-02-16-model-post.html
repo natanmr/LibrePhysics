@@ -1,12 +1,12 @@
 ---
-layout: default
-title:  "Faster Fuse Integration Service 2.0 S2I Openshift Deployments"
-date:   2017-02-22 01:00:00 +0200
-published: 2017-02-16 01:00:00 +0200
-comments: true
-categories: development
-tags: [jboss-fuse, fis, openshift, build-time, paas, docker]
-github: "https://github.com/alainpham/fis20-simple-svc"
+layout: default <!-- Sempre esse padrão -->
+title:  "pagina de modelo" <!-- Título da página -->
+date:   2017-02-22 01:00:00 +0200 <!-- Tada de atualização -->
+published: 2017-02-16 01:00:00 +0200 <!-- Data de publicação -->
+comments: true <!-- Ativar comentarios do DISQUS -->
+categories: development <!-- Descobrir esse mecanimo. colocar me-->
+tags: [tag1, tag2...] <!-- Tags de conteúdo -->
+github: "https://github.com/alainpham/fis20-simple-svc" <!-- Link git hub com os códigos -->
 ---
 
 <p> <!-- Primeiro paragrafo é o abstract -->
@@ -38,16 +38,16 @@ Setting up a Nexus repository <!-- Título de secção -->
 	class="center-block img-responsive"
 	src="/assets/images/{{page.id}}/nexus_s2i.png" alt="nexus s2i architecture"/></a>
 
-<h3>Download Nexus 2 OSS and run it</h3>
+
+<h3>Download Nexus 2 OSS and run it</h3> <!-- Título de subsecção -->
 <p>
-Download the Nexus Repository Manager OSS 2.x package on :
-<a href="https://www.sonatype.com/download-oss-sonatype">https://www.sonatype.com/download-oss-sonatype</a>
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam
 </p>
 <p>
 Unzip it and run it :
 </p>
 
-<pre>
+<pre> <!--Inserção de comandos -->
 ./nexus console
 </pre>
 
@@ -440,17 +440,6 @@ wget https://raw.githubusercontent.com/alainpham/fis20-simple-svc/v1.0/openshift
 <p>The working project with all the resources can be found here : </p>
 <a href="{{page.github }}">{{page.github }}</a>
 
-<h3>Deploy and run the application</h3>
-<p>You can use the command line. Alternatively you can use the Openshift UI to import the application template and deploy it.</p>
-<pre>
-oc create -f solution.yml
-oc create oc new-app springboot-rest
-</pre>
-
-<a href="/assets/images/{{page.id}}/faster_build.png"> <img
-	class="center-block img-responsive"
-	src="/assets/images/{{page.id}}/faster_build.png" alt="openshift s2i faster build times"/></a>
-
 <p>Test your service at the following url</p>
 <pre>
 http://springboot-rest-myproject.[yourIP].xip.io/test
@@ -460,13 +449,11 @@ http://springboot-rest-myproject.[yourIP].xip.io/test
 taken from the local Nexus instead of being downloaded from the Internet.</p>
 
 
-
+<!-- Links adicionais -->
 <strong>
-Other resources :
+links adicionais :
 </strong>
 <ul>
 <li>Video tutorial showing the source S2I method for FIS 2.0 : <a href="https://vimeo.com/194416659">https://vimeo.com/194416659</a></li>
 
-<li>Tutorial with binary S2I method (fabric8 plugin) : <a href="https://developers.redhat.com/blog/2017/01/17/getting-started-with-fuse-integration-service-2-0-tech-preview/">Getting Started with Fuse Integration Service 2.0 Tech preview</a></li>
-<li>(update 22/02/2017)Official FIS 2.0 GA documentation : <a href="https://access.redhat.com/documentation/en-us/red_hat_jboss_middleware_for_openshift/3/html-single/red_hat_jboss_fuse_integration_services_2.0_for_openshift/">https://access.redhat.com/documentation/en-us/red_hat_jboss_middleware_for_openshift/3/html-single/red_hat_jboss_fuse_integration_services_2.0_for_openshift/</a></li>
 </ul>
