@@ -33,6 +33,7 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor/bundle
 include: ["_pages"]
 permalink: /posts/:title/
 excerpt_separator: <!--more-->

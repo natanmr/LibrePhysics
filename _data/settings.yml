@@ -19,6 +19,8 @@ menu:
     link: /tags
   - name: Sobre
     link: /about
+  - name: Contato
+    link: /contact
   #- name: Categorias
   #  link: /categories
   #- name: Follow me
