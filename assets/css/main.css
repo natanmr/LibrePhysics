@@ -8,7 +8,7 @@ body {
 	margin-bottom: 8em;
 	padding-top: 4.5em;
 	counter-reset: h1counter;
-	background: #1c2028; /*1F2041 --> padrão*/ 
+	background: #1c2028;  
 }
 
 a:link 
@@ -33,9 +33,9 @@ h1, h2, h3, h4, h5, h6, p {
 	color: #fff
 }
 
-/*.list-group-item>a:hover, .list-group-item>a:focus, .list-group-item>a>h4:hover, .list-group-item>a>h4:focus, .list-group-item>a>h6:hover, .list-group-item>a>h6:focus{
+.list-group-item>a:hover, .list-group-item>a:focus, .list-group-item>a>h4:hover, .list-group-item>a>h4:focus, .list-group-item>a>h6:hover, .list-group-item>a>h6:focus{
 	color: #436436;
-}*/
+}
 
 h1 {
 	counter-reset: h2counter;
@@ -219,7 +219,12 @@ input[type="submit"], button, textarea {
 
 textarea { width: 73%;  resize: none; }
 
-/*a:hover, a:focus, a>h1:hover, a>h1:focus, a>h2:hover, a>h2:focus, a>h3:hover, a>h3:focus, a>h4:hover, a>h4:focus, a>h5:hover, a>h5:focus, a>h6:hover, a>h6:focus, a>i:hover, a>i:focus {
- color:#1F2041;
+a:hover, a:focus, a>h1:hover, a>h1:focus, a>h2:hover, a>h2:focus, a>h3:hover, a>h3:focus, a>h4:hover, a>h4:focus, a>h5:hover, a>h5:focus, a>h6:hover, a>h6:focus{
+ color:#436436;
  text-decoration:none
-}*/
+}
+a>i:hover, a>i:focus {
+	color:#1F2041;
+ 	text-decoration:none
+}
+
