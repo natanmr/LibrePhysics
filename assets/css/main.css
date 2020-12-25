@@ -8,7 +8,7 @@ body {
 	margin-bottom: 8em;
 	padding-top: 4.5em;
 	counter-reset: h1counter;
-	background: #1F2041; 
+	background: #1c2028; /*1F2041 --> padrão*/ 
 }
 
 a:link 
@@ -24,7 +24,7 @@ h1, h2, h3, h4, h5, h6, p {
 
 
 .list-group-item{
-	background: #1F2041;
+	background: #1c2028;
 	color: #fff;
 	/*border: #000*/	
 }
@@ -60,7 +60,7 @@ h3:before {
 }
 
 .jumbotron {
-	background: #436436	; 
+	background: #1F2041	; 
 }
 
 .jumbotron h1 {
@@ -122,7 +122,7 @@ h3:before {
 
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus
 	{
-	color: #436436;
+	color: #1F2041;
 }
 
 .navbar-default .navbar-nav>li>.dropdown-menu {
@@ -136,39 +136,39 @@ h3:before {
 .navbar-default .navbar-nav>li>.dropdown-menu>li>a:hover,
 	.navbar-default .navbar-nav>li>.dropdown-menu>li>a:focus {
 	color: #ffffff;
-	background-color: #12421f;
+	background-color: #1F2041;
 }
 
 .navbar-default .navbar-nav>li>.dropdown-menu>li>.divider {
-	background-color: #12421f;
+	background-color: #1F2041;
 }
 
 .navbar-default .navbar-nav .open .dropdown-menu>.active>a,
 	.navbar-default .navbar-nav .open .dropdown-menu>.active>a:hover,
 	.navbar-default .navbar-nav .open .dropdown-menu>.active>a:focus {
 	color: #ffffff;
-	background-color: #12421f;
+	background-color: #1F2041;
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover,
 	.navbar-default .navbar-nav>.active>a:focus {
 	color: #ffffff;
-	background-color: #12421f;
+	background-color: #1F2041;
 }
 
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover,
 	.navbar-default .navbar-nav>.open>a:focus {
 	color: #ffffff;
-	background-color: #12421f;
+	background-color: #1F2041;
 }
 
 .navbar-default .navbar-toggle {
-	border-color: #12421f;
+	border-color: #1F2041;
 }
 
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus
 	{
-	background-color: #12421f;
+	background-color: #1F2041;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -199,7 +199,7 @@ h3:before {
 		.navbar-default .navbar-nav .open .dropdown-menu>.active>a:hover,
 		.navbar-default .navbar-nav .open .dropdown-menu>.active>a:focus {
 		color: #ffffff;
-		background-color: #12421f;
+		background-color: #1F2041;
 	}
 }
 
@@ -219,7 +219,7 @@ input[type="submit"], button, textarea {
 
 textarea { width: 73%;  resize: none; }
 
-a:hover, a:focus, a>h1:hover, a>h1:focus, a>h2:hover, a>h2:focus, a>h3:hover, a>h3:focus, a>h4:hover, a>h4:focus, a>h5:hover, a>h5:focus, a>h6:hover, a>h6:focus, a>i:hover, a>i:focus {
- color:#436436;
+/*a:hover, a:focus, a>h1:hover, a>h1:focus, a>h2:hover, a>h2:focus, a>h3:hover, a>h3:focus, a>h4:hover, a>h4:focus, a>h5:hover, a>h5:focus, a>h6:hover, a>h6:focus, a>i:hover, a>i:focus {
+ color:#1F2041;
  text-decoration:none
-}
+}*/
